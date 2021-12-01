@@ -13,14 +13,11 @@
 
   ##
   
-  <div> 
-  <a href="https://www.linkedin.com/in/marianagjardim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <div> 
+    <a href="https://www.linkedin.com/in/marianagjardim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
    ![Snake animation](https://github.com/MarianaGJ/MarianaGJ/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silascunha&repo=sistema-loja-de-roupas&theme=radical)](https://github.com/silascunha/sistema-loja-de-roupas)
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasAlmeidaSar&repo=projeto-ecommerce&theme=radical)](https:/LucasAlmeidaSar/projeto-ecommerce)
