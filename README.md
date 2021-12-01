@@ -19,5 +19,9 @@
    ![Snake animation](https://github.com/MarianaGJ/MarianaGJ/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-  [! [Cartão Leiame] (https://github-readme-stats.vercel.app/api/pin/ ? Username = MarianaGJ & repo = github-readme-stats )] (https://github.com/MarianaGJ/github- readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silascunha&repo=sistema-loja-de-roupas)](https://github.com/silascunha/sistema-loja-de-roupas)
+
+
+
+
  
