@@ -19,9 +19,8 @@
    ![Snake animation](https://github.com/MarianaGJ/MarianaGJ/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silascunha&repo=sistema-loja-de-roupas)](https://github.com/silascunha/sistema-loja-de-roupas)
 
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=silascunha&repo=sistema-loja-de-roupas&theme=radical)](https://github.com/silascunha/sistema-loja-de-roupas)
 
-
- 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasAlmeidaSar&repo=projeto-ecommerce&theme=radical)](https:/LucasAlmeidaSar/projeto-ecommerce)
