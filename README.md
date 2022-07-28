@@ -10,7 +10,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PowerAutomate" height="30" width="40" src="https://img.icons8.com/fluency/50/000000/microsoft-power-automate-2020.png"/>
-  <img align="center" alt="Selenium" height="30" width="40" src="https://img.icons8.com/ios/50/000000/selenium-test-automation.png"/>
+  <img align="center" alt="Selenium" height="30" width="40" src="https://img.icons8.com/office/16/000000/selenium-test-automation.png"/>
 
   ##
   
